@@ -178,19 +178,22 @@ footer {
 
 .football, .tennis, .rpo, .spidey {
   font-weight: 700;
-  color: rgb(18, 63, 83);
 }
 
 .football-img, .rpo-img, .nadal-img, .ps4-img {
   border: solid 3px;
 }
 
-.skills-title {
-  color: #1a5771;
-}
 
 .skills-pic {
   margin-bottom: 30px;
+}
+
+#secondary {
+  margin-top: 80px;
+  background-color: #d1d1d1;
+  padding-top: 30px;
+  padding-bottom: 30px;
 }
 
 
@@ -282,7 +285,7 @@ header .profile-image  {
   margin: 0 auto;
   line-height: 1.5;
   margin-bottom: 20px;
-  color: #1a5771;
+
 }
 
 }
